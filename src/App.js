@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { Routes, Route, Outlet, Link } from "react-router-dom";
 import './styles.css';
 
-import logo from './logo/Soccerball.svg';
+import logo from './logo/scanner.svg';
 
 import FixedButton from './FixedButton';
 import Test from './Test';
